@@ -1,0 +1,4 @@
+vsketch @ git+https://github.com/abey79/vsketch@6d4b4ea1de27ba563032ce1aee02457c16d4ea60
+scikit-learn==0.24.2
+Shapely==1.7.1
+numpy==1.21.2
